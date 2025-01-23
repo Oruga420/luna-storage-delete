@@ -14,7 +14,7 @@ A simple command-line tool to delete OpenAI vector stores individually or in bat
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/luna-storage-delete.git
+git clone https://github.com/Oruga420/luna-storage-delete.git
 cd luna-storage-delete
 ```
 
